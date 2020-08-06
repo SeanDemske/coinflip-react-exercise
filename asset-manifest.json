@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coinflip-react-exercise/static/css/main.d7f5076c.chunk.css",
+    "main.js": "/coinflip-react-exercise/static/js/main.e9b045c4.chunk.js",
+    "main.js.map": "/coinflip-react-exercise/static/js/main.e9b045c4.chunk.js.map",
+    "runtime-main.js": "/coinflip-react-exercise/static/js/runtime-main.037a6bfb.js",
+    "runtime-main.js.map": "/coinflip-react-exercise/static/js/runtime-main.037a6bfb.js.map",
+    "static/js/2.db11a6a1.chunk.js": "/coinflip-react-exercise/static/js/2.db11a6a1.chunk.js",
+    "static/js/2.db11a6a1.chunk.js.map": "/coinflip-react-exercise/static/js/2.db11a6a1.chunk.js.map",
+    "index.html": "/coinflip-react-exercise/index.html",
+    "precache-manifest.1f595fc59ec4317e845d5726bbe6fd0a.js": "/coinflip-react-exercise/precache-manifest.1f595fc59ec4317e845d5726bbe6fd0a.js",
+    "service-worker.js": "/coinflip-react-exercise/service-worker.js",
+    "static/css/main.d7f5076c.chunk.css.map": "/coinflip-react-exercise/static/css/main.d7f5076c.chunk.css.map",
+    "static/js/2.db11a6a1.chunk.js.LICENSE.txt": "/coinflip-react-exercise/static/js/2.db11a6a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.037a6bfb.js",
+    "static/js/2.db11a6a1.chunk.js",
+    "static/css/main.d7f5076c.chunk.css",
+    "static/js/main.e9b045c4.chunk.js"
+  ]
+}
